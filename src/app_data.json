@@ -1,0 +1,5 @@
+{
+    "version": "v1.0.0 ~ ether",
+    "build": "2017(0x0001)",
+    "mount_bank": ".mnt_bnk"
+}
